@@ -1,0 +1,19 @@
+#page_name{
+	border:3px green dashed;
+	background-image: linear-gradient(to bottom right, rgb(55, 52, 238), rgb(255, 0, 0));
+	text-align: center;
+
+}
+
+
+.results{
+	margin-top:15px;
+	margin-bottom:15px;
+	border:2px solid;
+	border-radius: 30px 20px 10px 16px;
+	padding:2%;
+	margin:3%;
+
+	font-size: small;
+}
+
